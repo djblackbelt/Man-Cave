@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/djblackbelt/djblackbelt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-[TEST](https://github.com/djblackbelt/djblackbelt.github.io/edit/master/test.md)
+[TEST](https://djblackbelt.github.io/test.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
